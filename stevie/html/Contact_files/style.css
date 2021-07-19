@@ -1,0 +1,52 @@
+/*
+	THEME NAME: The DJ
+	THEME URI: http://alohathemes.com/thedj
+	DESCRIPTION: A Music Theme for WordPress
+	AUTHOR: Aloha Themes (Scott Bernadot)
+	AUTHOR URI: http://alohathemes.com
+*/
+
+/* reset */
+@import url("/web/20161020220521cs_/http://djstevieray.com/wp-content/themes/thedj/css/reset.css");
+
+/* typography styles */
+@import url("/web/20161020220521cs_/http://djstevieray.com/wp-content/themes/thedj/css/typo.css");
+
+/* form elements */
+@import url("/web/20161020220521cs_/http://djstevieray.com/wp-content/themes/thedj/css/forms.css");
+
+/* main layout */
+@import url("/web/20161020220521cs_/http://djstevieray.com/wp-content/themes/thedj/css/layout.css");
+
+/* navigation */
+@import url("/web/20161020220521cs_/http://djstevieray.com/wp-content/themes/thedj/css/menus.css");
+
+/* Theme Option settings */
+@import url("/web/20161020220521cs_/http://djstevieray.com/wp-content/themes/thedj/css/bx_styles.css");
+
+/* Reverb design */
+@import url("/web/20161020220521cs_/http://djstevieray.com/wp-content/themes/thedj/css/reverb.css");
+
+/* Theme Option settings */
+@import url("/web/20161020220521cs_/http://djstevieray.com/wp-content/themes/thedj/css.php");
+/*
+     FILE ARCHIVED ON 22:05:21 Oct 20, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:01:37 Jul 19, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 118.106
+  CDXLines.iter: 17.22 (3)
+  RedisCDXSource: 5.516
+  esindex: 0.012
+  exclusion.robots.policy: 0.142
+  load_resource: 335.146 (2)
+  LoadShardBlock: 85.916 (3)
+  PetaboxLoader3.resolve: 172.576 (2)
+  PetaboxLoader3.datanode: 208.733 (5)
+  exclusion.robots: 0.151
+*/

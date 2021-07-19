@@ -1,0 +1,67 @@
+/*=========================================================FAMILIIES
+*/
+body{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+}
+h1,h2,h3,h4,h5,h6 { 
+font-size:100%; 
+font-weight:normal;
+font-family:Arial, Helvetica, sans-serif;
+} 
+p, ul li{line-height: 22px;}
+/*=========================================================HEADINGS
+*/
+h1 {
+	font-size: 25px;
+}
+h2 {
+	font-size: 23px;
+}
+h3 {
+	font-size: 21px;
+}
+h4 {
+	font-size: 19px;
+}
+h5 {
+	font-size: 17px;
+}
+h6 {
+	font-size: 15px;
+}
+/*=========================================================SPACING
+*/
+ol {
+	list-style: decimal;
+}
+ul {
+	list-style: square;
+}
+li {
+	margin-left: 30px;
+}
+p,dl,hr,h1,h2,h3,h4,h5,h6,ol,ul,pre,table,address,fieldset, img {
+	margin-bottom: 10px;
+}
+/*
+     FILE ARCHIVED ON 05:17:52 Dec 22, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:19:57 Jul 19, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  load_resource: 85.649
+  RedisCDXSource: 0.629
+  exclusion.robots: 0.157
+  exclusion.robots.policy: 0.146
+  esindex: 0.012
+  captures_list: 79.543
+  CDXLines.iter: 19.645 (3)
+  PetaboxLoader3.datanode: 80.639 (4)
+  LoadShardBlock: 55.837 (3)
+  PetaboxLoader3.resolve: 31.506
+*/

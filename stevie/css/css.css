@@ -1,0 +1,64 @@
+
+
+
+
+body{
+background: #000  url(https://web.archive.org/web/20161222051857im_/http://djstevieray.com/wp-content/themes/thedj/images/background.jpg)  repeat-x top center  !important ;
+}
+
+
+/* #nav {
+background:none !important;#margin-top:8px;
+} */
+
+#nav ul li {
+background:#212121 !important;
+}
+
+#nav ul li a   {
+background:#000 !important;
+border-right:1px solid #000;
+}
+
+#nav ul li .nav_current, #nav ul li.current_page_item a{
+background:#fff !important;color:#000 !important;
+}
+
+
+#nav ul li a:hover{
+background:#333 !important;
+
+color: #ADDCE6 !important;
+}
+
+
+#nav ul li a{
+color:#fff !important;
+}
+
+.sf-menu ul li{
+background:#DA3D00 !important;
+}
+
+
+/*
+     FILE ARCHIVED ON 05:18:57 Dec 22, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:19:57 Jul 19, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 100.837
+  exclusion.robots: 0.111
+  exclusion.robots.policy: 0.103
+  RedisCDXSource: 10.049
+  esindex: 0.009
+  LoadShardBlock: 65.089 (3)
+  PetaboxLoader3.datanode: 66.525 (4)
+  CDXLines.iter: 22.938 (3)
+  load_resource: 213.923
+  PetaboxLoader3.resolve: 68.854
+*/

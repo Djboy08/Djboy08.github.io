@@ -1,0 +1,354 @@
+body {
+background:url(/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/images/background.jpg) top center repeat-x scroll;
+font-family:verdana,arial,sans-serif;
+line-height:150%;
+}
+
+#nav {
+-moz-border-radius:15px;
+border-radius:15px;
+clear:both;
+float:left;
+height:45px;
+margin-bottom:20px;
+margin-left:-10px;
+margin-top:-10px;
+padding:0 0 0 20px;
+width:960px;
+z-index:10 !important;
+
+}
+#wrap {
+background:#transparent;
+margin-top:10px;
+}
+
+.mod3 {
+background:none;
+color:#fefefe;
+margin-right:10px;
+padding:10px;
+width:290px;
+}
+
+#footer .home{
+/* background: url(/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/images/home-widgets-bg.jpg) no-repeat top center; */
+border-top:3px solid #212121;
+width:940px;
+}
+
+.ftrcontent .mod2 a,.ftrcontent .mod2 p {
+color:#777 !important;
+font-size:10px;
+text-align:center;
+}
+
+h1,h2,h3,h4,h5,h6 {
+color:#b8080b;
+}
+
+h1{border-bottom:3px double #CDBCA0;}
+
+
+
+.mod3 li {
+background:none;
+background-image:none !important;
+list-style-type:none !important;
+margin:0;
+padding:5px;
+}
+
+
+
+.mod3 li a {
+color:#fff;
+}
+
+.onethird,.twothirds,.half {
+float:left;
+margin:10px 35px 10px 0;
+}
+
+.onethird {
+width:275px;
+}
+
+.twothirds {
+width:550px;
+}
+
+.half {
+float:left;
+width:430px;
+}
+
+.onethird p,.twothirds p,.half p {
+clear:left;
+}
+
+.entry-head {
+color:#555;
+font-family:"verdana", arial, sans-serif;
+font-size:10px;
+letter-spacing:.1em;
+margin-bottom:10px;
+position:relative;
+text-transform:capitalize;
+}
+
+
+.last {
+margin-right:-10px;
+}
+
+.home .last {
+float:left;
+width:280px;
+}
+
+.bx-pager {
+margin-bottom:10px;
+}
+
+.gridcontainer .textwidget {
+color:#000;
+margin-bottom:15px;
+}
+
+.gridcontainer a.banner_ads img {
+margin-right:10px;
+}
+
+hr {
+clear:both;
+float:left;
+}
+
+#header ul.social {
+float:right;
+height:64px;
+margin-right:20px;
+margin-top:48px;
+overflow:hidden;
+}
+
+#header ul.social li.connect {
+float:left;
+height:40px;
+line-height:40px;
+}
+
+#header ul.social li {
+display:inline-block;
+float:left;
+height:31px;
+line-height:31px;
+list-style:none;
+margin-left:7px;
+}
+
+#header ul.social li a.twitter,#header ul.social li a:hover.twitter {
+background:url(/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/images/twitter.png) no-repeat top;
+display:block;
+height:32px;
+width:32px;
+}
+
+#header ul.social li a.facebook,#header ul.social li a:hover.facebook {
+background:url(/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/images/facebook.png) no-repeat top;
+display:block;
+height:32px;
+width:32px;
+}
+
+#header ul.social li a.myspace,#header ul.social li a:hover.myspace {
+background:url(/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/images/myspace.png) no-repeat top;
+display:block;
+height:32px;
+width:32px;
+}
+
+#header ul.social li a.linkedin,#header ul.social li a:hover.linkedin {
+background:url(/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/images/linkedin.png) no-repeat top;
+display:block;
+height:32px;
+width:32px;
+}
+
+#header ul.social li a.rss,#header ul.social li a:hover.rss {
+background:url(/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/images/rss.png) no-repeat top;
+display:block;
+height:32px;
+width:32px;
+}
+
+#header ul.social li a.youtube,#header ul.social li a:hover.youtube {
+background:url(/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/images/youtube.png) no-repeat top;
+display:block;
+height:32px;
+width:32px;
+}
+
+div.s-container {
+margin:0;
+padding:0;
+}
+
+#frame-bottom {
+_width:962px;
+background: url(../Assets/frame_bottom.png) no-repeat bottom left;
+height:15px;
+margin:auto;
+overflow:hidden;
+padding:0 10px;
+position:relative;
+width:962px;
+}
+
+#frame-top {
+_width:962px;
+background:url(../Assets/frame_top.png) no-repeat bottom left;
+height:20px;
+margin:auto;
+overflow:hidden;
+padding:0 10px;
+position:relative;
+width:962px;
+
+}
+
+#frame-bg {
+background:url(../Assets/frame_bg.png) repeat-y top left;
+_overflow:hidden;
+font-size:12px;
+line-height:20px;
+margin:auto;
+overflow:hidden;
+padding:0 10px;
+position:relative;
+width:962px;
+z-index:0;
+}
+
+.wrap2 {
+z-index:10;
+}
+
+.home .mod3 p {
+color:#000;
+}
+
+.home .mod3 li {
+background:none;
+background-image:none !important;
+color:#000;
+list-style-type:none !important;
+margin:0;
+padding:5px;
+}
+
+.home .mod3 li:nth-child(odd) {
+background:#f3f3f3;
+
+
+}
+
+.home .mod3 li a,.home .mod3 a {
+color:#333333;
+}
+
+.bottom, .bottom p, .bottom .textwidget p {
+color:#fff;
+margin-bottom:15px;
+background:#000;
+}
+
+.bottom .textwidget a {
+color:#333;
+}
+
+.home .mod3 ul li, .bottom ul li{list-style-image:url(/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/images/li_bg.png); line-height:22px;list-style-position:outside; margin-left:20px;}
+
+.blogPagination{clear:both; float:left;}
+
+@font-face {
+	font-family: 'LeagueGothicRegular';
+	src: url('/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/css/fontface/League_Gothic-webfont.eot');
+	src: local('?'), url('/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/css/fontface/League_Gothic-webfont.woff') format('woff'), url('/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/css/fontface/League_Gothic-webfont.ttf') format('truetype'), url('/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/css/fontface/League_Gothic-webfont.svg#webfont1Lb5Pdit') format('svg');
+	font-weight: normal;
+	font-style: normal;
+ 
+}
+
+@font-face {
+	font-family: 'UbuntuRegular';
+	src: url('/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/css/fontface/Ubuntu-R-webfont.eot');
+	src: local('?'), url('/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/css/fontface/Ubuntu-R-webfont.woff') format('woff'), url('/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/css/fontface/Ubuntu-R-webfont.ttf') format('truetype'), url('/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/css/fontface/Ubuntu-R-webfont.svg#webfont5QrTZHwg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'UbuntuItalic';
+	src: url('/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/css/fontface/Ubuntu-I-webfont.eot');
+	src: local('?'), url('/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/css/fontface/Ubuntu-I-webfont.woff') format('woff'), url('/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/css/fontface/Ubuntu-I-webfont.ttf') format('truetype'), url('/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/css/fontface/Ubuntu-I-webfont.svg#webfontwdgWd3TL') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'UbuntuBold';
+	src: url('/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/css/fontface/Ubuntu-B-webfont.eot');
+	src: local('?'), url('/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/css/fontface/Ubuntu-B-webfont.woff') format('woff'), url('/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/css/fontface/Ubuntu-B-webfont.ttf') format('truetype'), url('/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/css/fontface/Ubuntu-B-webfont.svg#webfontCKhwRblf') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'UbuntuBoldItalic';
+	src: url('/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/css/fontface/Ubuntu-BI-webfont.eot');
+	src: local('?'), url('/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/css/fontface/Ubuntu-BI-webfont.woff') format('woff'), url('/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/css/fontface/Ubuntu-BI-webfont.ttf') format('truetype'), url('/web/20161222051832im_/http://djstevieray.com/wp-content/themes/thedj/css/fontface/Ubuntu-BI-webfont.svg#webfontLmVyebAO') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+h2,h3{font-family:'UbuntuRegular' !important;font-size:18px; font-weight:normal; color:#000; margin-top:25px;text-transform:uppercase; }
+#content h2{margin-top:10px;}
+h3 a {text-decoration:none; color:#000; }
+h3 a:hover { color:#000; }
+h3{
+text-rendering: optimizeLegibility;
+font-smoothing: antialiased;     
+-webkit-font-smoothing: antialiased; 
+
+}
+.mod3 h3 {color:#fff;margin-top:0px; }
+.home .mod3 h3 {color:#000; text-transform:uppercase;}
+
+h1{font-family:'UbuntuRegular' !important;font-size:28px; text-transform:uppercase;font-weight:normal; color:#000; margin-top:0px;line-height:40px; }
+.footerbox{background:#000;margin-top:-15px;padding-top:15px;}
+
+/*
+     FILE ARCHIVED ON 05:18:32 Dec 22, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:19:57 Jul 19, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 105.391
+  exclusion.robots: 0.162
+  exclusion.robots.policy: 0.149
+  RedisCDXSource: 6.555
+  esindex: 0.006
+  LoadShardBlock: 79.678 (3)
+  PetaboxLoader3.datanode: 83.101 (4)
+  CDXLines.iter: 16.691 (3)
+  PetaboxLoader3.resolve: 78.043 (2)
+  load_resource: 109.041
+*/

@@ -1,0 +1,162 @@
+/*============================================================
++		                 STRUCTURE		     				 +
+==============================================================
+*/
+body{background:#000 url(/web/20161222051920im_/http://djstevieray.com/wp-content/themes/thedj/images/main_bg.gif) repeat; color:#595959;}
+a{color:#333; text-decoration:underline; outline:none;}
+a:hover{text-decoration:underline;}
+hr{background:url(/web/20161222051920im_/http://djstevieray.com/wp-content/themes/thedj/images/hr_bg.png) repeat-x; height:2px; width:100%; border:none; margin:20px 0;}
+div.clear{clear:both;}
+
+.alignCenter{text-align:center; display:block;}
+.alignleft{float:left; margin-right:20px;}
+.alignright{float:right; margin-left:20px;}
+ul li{line-height:18px;}
+code{background:#fff9e7; border-left:3px solid #9c5d30; display:block; white-space:pre; overflow:auto; margin-left:30px;}
+blockquote {border : 1px dashed #d2d2d2;margin: 0px;margin-left:30px;font-style:italic;padding: 10px;background-color: #ffffcc;quotes: "\201C" "\201D";}
+
+/*============================================================
++		              HOME PAGE STRUCTURE			    	 +
+==============================================================
+*/
+/*============================================================
++		               MAIN STRUCTURE						 +
+==============================================================
+*/
+#wrap{width:960px;  margin:auto auto; position:relative; padding:0 10px;z-index:100 !important;}
+
+.wrap2{width:940px; overflow:hidden; margin:0 auto; position:relative; padding:0 10px;}
+
+
+#content{width:600px; float:left;}
+
+#sidebar{width:320px; float:right; margin-bottom:10px;}
+#full_page{width:940px; padding:0px 0; overflow:hidden;}
+#container{width:940px; overflow:hidden;}
+.statement{padding-top:30px; padding-bottom:10px; background:url(/web/20161222051920im_/http://djstevieray.com/wp-content/themes/thedj/images/hr_bg.png) repeat-x top left;}
+#header{width:980px; margin:0 auto; overflow:visible;}
+#footer{width:100%; overflow:hidden}
+.inner{padding:20px;}
+#logo{position:relative; float:left;}
+#logo a.logo{display:block;}
+#logo h1, #logo b{ text-align:center; font-weight:normal; display:block; text-transform:uppercase;}
+#logo h1{padding-top:35px; font-size:36px; letter-spacing:5px;}
+/* 
+		GRIDS BY WP MADNESS - DO COPY ;)
+*/
+.gridcontainer{width:100%; overflow:hidden;}
+.mod2{width:100%; float:left;}
+.mod3{width:300px; margin-right:20px; float:left; overflow:hidden;}
+.mod4{width:220px; margin-right:20px; float:left; margin-bottom:10px;}
+.mod5{width:172px; margin-right:20px; float:left}
+.last{float:right; margin:0}
+/*============================================================
++		               HOME STRUCTURE						 +
+==============================================================
+*/
+div.s-container{ margin-top:20px;  overflow:hidden}/*slider container */
+#slider{height:300px; width:940px; overflow:hidden; margin-bottom:0;}
+#slider li{margin:0}
+#slider li img{margin:0}
+a.slider_prev, a.slider_next{display:none;}
+/*============================================================
++		            TWO COLUMNS STRUCTURE					 +
+==============================================================
+*/
+#sidebar .mod{background:#efefef; border:1px solid #cecece; padding:15px; float:left; margin-bottom:20px; overflow:hidden; width:290px;}
+#sidebar a.banner_ads img{margin:4px; background:white; padding:3px; border:1px solid #f0f0f0; clear:both;}
+#sidebar a.banner_ads img:hover{background:#e8e8e8;}
+#sidebar ul li{list-style-image:url(/web/20161222051920im_/http://djstevieray.com/wp-content/themes/thedj/images/li_bg.png); line-height:22px;}
+#sidebar .mod input.search{border:1px solid #f0f0f0; height:25px; padding-left:5px; width:250px; color:#999999; font-style:italic; text-transform:uppercase; font-size:11px;}
+/* blog layout atraditional */
+div.entry{position: relative;}
+div.post-meta span{text-transform:uppercase; line-height:22px; border-bottom:1px dotted #494949; margin-bottom:0px;}
+/* blog layout alternative */
+
+.entryalt{width:186px; float:left; margin-right:20px;}
+.lastentry{float:right; margin:0}
+/*============================================================
++		            GALLERY PAGES STRUCTURE					 +
+==============================================================
+*/
+.portfolio {
+border: 3px double #333;
+float: left;
+height: 255px;
+margin: 0 4px 4px 28px;
+overflow: hidden;
+position: relative;
+width: 170px;
+padding:10px;
+background:#fff;
+}
+.portfolio a {
+display: block;
+position: relative;
+text-decoration:none;
+}
+.portfolio a img {
+height: 200px;
+position: relative;
+width: 150px;
+margin-left:4px;
+padding:3px;
+border:3px solid white;
+}
+
+.portfolio a:hover{text-decoration:none}
+/* --- Dark hover background ------------------------------------------------------------ */
+.dark-background {
+background-color: rgba(15, 15, 15, 0.4);
+color: #fff;
+text-shadow: #000 1px 1px 1px;
+}
+.dark-background em {
+	color: #ccc;
+}
+ul.gallery{overflow:hidden;}
+ul.gallery li{margin:0; float:left; list-style:none;}
+ul.gallery li img{padding:4px; margin:14px; background:white; border:1px solid #e1e1e1;}
+/* Blogs styling*/
+#full_page #respond{background:#f7f7f7;border:1px solid #d2d2d2;padding:10px; margin-bottom:20px; width:500px;}
+#respond{background:#f7f7f7;border:1px solid #d2d2d2;padding:10px; margin-bottom:20px;}
+.commentlist{list-style:none;}
+span.gravatar{float:right;background:#f9f9f9;padding:7px 7px 0 7px;border:1px solid #d2d2d2;}
+span.gravatar img{}
+.commentlist li {padding:10px;margin:20px 0;border:1px solid #d2d2d2;background:#f7f7f7;}
+.commentlist cite {display:block;font-style:normal;font-family:"Times New Roman", Times, serif;text-transform:uppercase;font-size:10px;letter-spacing:0.1em;}
+.commentCopy{padding:10px;background:white;border:1px dashed #d2d2d2;}
+.entry{}
+.entry h1 a, .entry h2 a{text-decoration:none;}
+.entry-head{margin-bottom:10px;font-size:10px;text-transform:uppercase;font-family:"Times New Roman", Times, serif;letter-spacing:.1em;position:relative;}
+/*============================================================
++		               FOOTER STRUCTURE						 +
+==============================================================
+*/
+#footer{padding-top:10px;}
+#footer p{padding-top:3px;}
+
+
+
+
+/*
+     FILE ARCHIVED ON 05:19:20 Dec 22, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:19:58 Jul 19, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 595.267
+  exclusion.robots: 0.113
+  exclusion.robots.policy: 0.103
+  RedisCDXSource: 0.897
+  esindex: 0.009
+  LoadShardBlock: 567.869 (3)
+  PetaboxLoader3.resolve: 117.61 (3)
+  PetaboxLoader3.datanode: 500.935 (4)
+  CDXLines.iter: 22.79 (3)
+  load_resource: 94.68
+*/

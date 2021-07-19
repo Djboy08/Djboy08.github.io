@@ -1,0 +1,129 @@
+/* @override http://localhost/bxslider_v3_plugin/css/styles.css */
+
+/*
+ * To change the color scheme of slider change each 
+ * background property for each of the five styles below
+ */
+
+/*next button*/
+.bx-next {
+	position:absolute;
+	top:40%;
+	right:-50px;
+	z-index:999;
+	width: 30px;
+	height: 30px;
+	text-indent: -999999px;
+	background: url(/web/20161222051735im_/http://djstevieray.com/wp-content/themes/thedj/css/bximgs/gray_next.png) no-repeat 0 -30px;
+}
+
+/*previous button*/
+.bx-prev {
+	position:absolute;
+	top:40%;
+	left:-50px;
+	z-index:999;
+	width: 30px;
+	height: 30px;
+	text-indent: -999999px;
+	background: url(/web/20161222051735im_/http://djstevieray.com/wp-content/themes/thedj/css/bximgs/gray_prev.png) no-repeat 0 -30px;
+}
+
+/*pager links*/
+.bx-pager a {
+	margin-right: 5px;
+	color: #fff;
+	padding: 3px 8px 3px 6px;
+	font-size: 12px;
+	zoom:1;
+	background: url(/web/20161222051735im_/http://djstevieray.com/wp-content/themes/thedj/css/bximgs/gray_pager.png) no-repeat 0 -20px;
+}
+
+/*auto start button*/
+.bx-auto .start {
+	background: url(/web/20161222051735im_/http://djstevieray.com/wp-content/themes/thedj/css/bximgs/gray_auto.png) no-repeat 0 2px;
+	padding-left: 13px;
+}
+
+/*auto stop button*/
+.bx-auto .stop {
+	background: url(/web/20161222051735im_/http://djstevieray.com/wp-content/themes/thedj/css/bximgs/gray_auto.png) no-repeat 0 -14px;
+	padding-left: 13px;
+}
+
+/*
+ * End color scheme styles
+ */
+
+
+/*next/prev button hover state*/
+.bx-next:hover,
+.bx-prev:hover {
+	background-position: 0 0;
+}
+
+/*pager links hover and active states*/
+.bx-pager .pager-active,
+.bx-pager a:hover {
+	background-position: 0 0;
+}
+
+/*pager wrapper*/
+.bx-pager {
+	text-align:center;
+	padding-top: 7px;
+	font-size:12px;
+	color:#666;
+}
+
+/*captions*/
+.bx-captions {
+	text-align:center;
+	font-size: 12px;
+	padding: 7px 0;
+	color: #666;
+}
+
+/*auto controls*/
+.bx-auto {
+	text-align: center;
+	padding-top: 15px;
+}
+
+.bx-auto a {
+	color: #666;
+	font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 05:17:35 Dec 22, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:19:58 Jul 19, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 126.013
+  exclusion.robots: 0.088
+  exclusion.robots.policy: 0.08
+  RedisCDXSource: 1.978
+  esindex: 0.008
+  LoadShardBlock: 106.238 (3)
+  PetaboxLoader3.datanode: 478.78 (4)
+  CDXLines.iter: 15.763 (3)
+  PetaboxLoader3.resolve: 84.041 (2)
+  load_resource: 483.853
+*/
